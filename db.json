@@ -1,0 +1,35 @@
+{
+  "userList": [
+    {
+      "name": "Thu",
+      "email": "aThu@gmail.com",
+      "phoneNumber": "1234546",
+      "block": false,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "thu",
+      "password": "123",
+      "isAdmin": true,
+      "firstName": "Ma",
+      "lastName": "Kai",
+      "email": "mkai@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/fir-demo-1708a.appspot.com/o/images%2F13900317_1140878662652667_4915285738286682915_n.jpg?alt=media&token=4751c7db-5a7e-4f30-9938-aab7883e745f",
+      "carts": [
+        {
+          "productId": 1,
+          "quantity": 5,
+          "des": "123"
+        },
+        {
+          "productId": 2,
+          "quantity": 5,
+          "des": "123"
+        }
+      ]
+    }
+  ]
+}
